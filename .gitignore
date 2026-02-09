@@ -1,0 +1,21 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Make sure requirements.txt is tracked for CI
+# requirements.txt  <- removed if it existed
+
+# Node.js dependencies
+node_modules/
